@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-File Commander - Modern Natural Language File Management
+File Commander -- Modern Natural Language File Management
 
 A command-line application that uses natural language to perform file operations.
 Built with Typer and Rich for a beautiful and intuitive interface.
